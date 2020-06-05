@@ -1,6 +1,6 @@
 get_salary = 125000
 good_life = True
-if get_salary > 100000 and good_life: 
+if get_salary > 100000 and good_life:  
     print("To get job and work efficiently") 
 else:
     print("to go for Mtech preperation")
