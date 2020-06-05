@@ -5,6 +5,6 @@ if unit.upper() == "L":
     print("Weight in kilo:" + str(convertedweight))
 elif unit.upper() == "K":
     convertedweight = weight / 0.45
-    print("Weight in lbs:" + str(convertedweight))  
+    print("Weight in lbs:" + str(convertedweight))   
 else:
     print("Unit entered is wrong")      
