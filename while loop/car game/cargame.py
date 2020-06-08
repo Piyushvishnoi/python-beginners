@@ -6,5 +6,5 @@ while order.upper() != "QUIT":
     elif order.upper() == 'STOP':
      print("Car stopped!!")
     elif order.
-    else:
+    else: 
      print("command entered is wrong")
