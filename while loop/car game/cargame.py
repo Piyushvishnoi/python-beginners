@@ -6,7 +6,7 @@ while order.upper() != "QUIT":
     elif order.upper() == 'STOP':
      print("Car stopped!!")
     elif order.upper() =='HELP':
-        print('''
+        print(''' 
         Start -> To start the car
         Stop-> To stop the car   
         Quit-> to quit from game 
