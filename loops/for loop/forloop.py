@@ -1,4 +1,4 @@
 for i in 'pYTHON':
-    print(i)
+    print(i) 
 for item in ['Piyush','Vishnoi']:   
     print(item) 
