@@ -4,4 +4,4 @@ total = 0
 for i in [10,20,30]:
     total += i
 print(f"total is: {total}")    
-  
+   
