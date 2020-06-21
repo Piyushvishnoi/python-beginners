@@ -4,5 +4,5 @@ if is_hot:
     print("Very Hot")    
 elif is_cold: 
     print("Very cold")      
-else:      
+else:       
     print("Not cold")    
