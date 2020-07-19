@@ -6,3 +6,4 @@ elif is_cold:
     print("Very cold")        
 else:       
     print("Not cold")    
+ 
