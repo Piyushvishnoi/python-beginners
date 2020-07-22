@@ -4,6 +4,4 @@ student = {
     "rollno" : "R171218071"    
 }  
 print(student["name"])     
-print(student.get("rollno"))   
- 
- 
+print(student.get("rollno"))
