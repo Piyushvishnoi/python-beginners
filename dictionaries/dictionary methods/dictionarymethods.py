@@ -5,6 +5,6 @@ student = {
 }   
 student["Sapid"] = 500067083   
 print(student["Sapid"])     
-student["name"] = "Piyush Vishnoi" 
+student["name"] = "Piyush Vishnoi"  
 print(student["name"]) 
  
