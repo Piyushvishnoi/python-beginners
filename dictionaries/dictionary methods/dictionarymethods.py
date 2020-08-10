@@ -1,5 +1,5 @@
 student = {
-    "name" : "Piyush",
+    "name" : "Piyush", 
     "class" : "Btech SEcond year",     
     "rollno" : "R171218071"    
 }    
