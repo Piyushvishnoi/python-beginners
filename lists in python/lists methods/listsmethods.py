@@ -1,5 +1,5 @@
 number = [1,2,3,'Piyush']
-number.append('Vishnoi')
+number.append('Vishnoi') 
 print(number) 
 number.insert(1,'Omji')   
 print(number)
