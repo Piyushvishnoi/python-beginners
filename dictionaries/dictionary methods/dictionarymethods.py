@@ -1,4 +1,4 @@
-student = {
+student = { 
     "name" : "Piyush",  
     "class" : "Btech SEcond year",     
     "rollno" : "R171218071"      
