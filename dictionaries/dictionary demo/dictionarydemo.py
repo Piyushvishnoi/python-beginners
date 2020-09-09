@@ -1,6 +1,6 @@
 student = {   
     "name" : "Piyush",       
-    "class" : "Btech SEcond year",            
+    "class" : "Btech SEcond year",             
     "rollno" : "R171218071"                   
 }            
 print(student["name"])         
