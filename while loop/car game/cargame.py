@@ -12,4 +12,4 @@ while order.upper() != "QUIT":
         Quit-> to quit from game   
         ''') 
     else:
-     print("command entered is wrong") 
+     print("command entered is wrong")  
